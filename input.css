@@ -1,0 +1,32 @@
+.body {
+    background: #91edc5;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center
+    
+    
+}
+.equal{
+    font-size: 20px
+}
+
+div {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, 50%)
+}
+
+h1 {
+    font-family: Tahoma;
+    color: white
+}
+
+button {
+    background: white;
+    border: none;
+    color: violet;
+    cursor: pointer
+}
